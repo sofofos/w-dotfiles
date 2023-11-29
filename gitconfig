@@ -58,7 +58,7 @@
   rebase = false
 [user]
 	email = sofia.alva.gonza@gmail.com
-	name = sofia alvarez
+	name = Sofia Alvarez
 
 [init]
   defaultBranch = master
